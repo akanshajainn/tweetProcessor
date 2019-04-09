@@ -64,7 +64,7 @@ class filterWords:
                   "help","hence","her","here","here's","hereafter",
                   "hereby","herein","hereupon","hers","herself","hi",
                   "him","himself","his","hither","hopefully","how",
-                  "howbeit","however","i'd","i'll","i'm","i've",
+                  "howbeit","however","i","i'd","i'll","i'm","i've",
                   "ie","if","ignored","immediate","in","inasmuch",
                   "inc","indeed","indicate","indicated","indicates",
                   "inner","insofar","instead","into","inward","is",
