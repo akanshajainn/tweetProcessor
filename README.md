@@ -10,5 +10,12 @@ tweetProcessor allows to:
 4. Add your own custom filter word.
 5. Extract entities(url, hashtag, username) from tweet.
 
-*run_example.py* file has all the examples to test.
-*filterWords.py* has class having emoticons and stop words list which you can modify acc to your needs.
+**run_example.py** file has all the examples to test.
+
+**filterWords.py** has class having emoticons and stop words list which you can modify acc to your needs.
+
+Run on terminal:
+
+```
+python3 run_example.py
+```
