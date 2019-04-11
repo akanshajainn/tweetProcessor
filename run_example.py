@@ -1,7 +1,8 @@
 from tweetProcessor import tweetProcessor
 
 '''
-Purposefully used dirty texts to show versatility of the code'''
+Purposefully used dirty texts to show versatility of the code
+'''
 
 if __name__ == '__main__':
 
