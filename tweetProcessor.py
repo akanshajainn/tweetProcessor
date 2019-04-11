@@ -49,7 +49,7 @@ class tweetProcessor(filterWords):
         tweet_tokens = list(filter(None, re.split("[., /!?;&:\"\n]+", str(dirty_tweet))))
         tweet_text = ' '.join(tweet_tokens)
 
-        clean_tweet_tokens = [word for word in tweet_tokens if word not in self.filterwords]  # This will keep the 'hashtag' from '#hashtag' and remove '#'
+        clean_tweet_tokens = [word for word in tweet_tokens if word not in self.filterwords]  
 
         if self.tolower:
             clean_tweet_tokens = [word.lower() for word in clean_tweet_tokens if word.lower() not in self.filterwords]
