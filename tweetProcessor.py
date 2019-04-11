@@ -1,5 +1,5 @@
 import re
-from filterWords import filterWords
+from .filterWords import filterWords
 
 '''
 Preprocessing Tool that removes stopwords, positive emoticons, negative emoticons, @usernames, #hashtags, urls, rt from a text/tweet.
